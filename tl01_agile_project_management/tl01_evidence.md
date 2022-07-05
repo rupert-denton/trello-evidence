@@ -1,0 +1,7 @@
+The benefits of agile. I definitely enjoyed the agile workflow, I think. Regular stand ups and sprints was a cool way to work and really aligned well with how I have approached tasks in the past. 
+
+I really enjoyed being agile facilitator and following the kanban approach to workflow and collaboration. I have made kanban a central part of my workflow over the past few years and really enjoy the process. 
+
+I found retrospectives to be okay but by Friday at 430 or whatever we are all pretty brain dead and also I found that it could feel a little box-ticky, like generally we all just said more of what worked well than what could have gone better etc. so there weren't like stacks of lessons learned. But yeah, as I said, the projects were pretty small and friday afternoon we are all pretty tired so it felt a bit more like just doing the last hurdle rather than an integral part of teh process. 
+
+Also, I would be interested in learning about other approaches outside of agile, I've heard of "developer anarchy" which sounds interesting. Finally, I do wonder how a workflow in a bigger project that was just like sprint after sprint after sprint would sort of take its toll on developer morale, burn out etc. 
