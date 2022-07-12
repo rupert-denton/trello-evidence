@@ -15,4 +15,4 @@ I can see the importance of this role, but during the 24 hr projects sorta found
 
 Agile Lead/Scrum Master
 
-LOVED this role. Really liked the structure, bringing people back to stand up meetings, putting time bounds around things. Methodically working through the kanban and helping people get unstuck. I did this role on the Pokedex Project and really liked thinking through how best to allocate resources/time and what tickets to focus on. Lots of fun
+LOVED this role. Really liked the structure, bringing people back to stand up meetings, putting time bounds around things. Methodically working through the kanban and helping people get unstuck. I did this role on the Pokedex Project and really liked thinking through how best to allocate resources/time and what tickets to focus on. Lots of fun.
