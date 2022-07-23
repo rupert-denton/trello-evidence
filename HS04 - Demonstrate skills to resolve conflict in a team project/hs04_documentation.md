@@ -1,0 +1,3 @@
+During our project one of my team-mates and I had a robust (but respectful) discussion about the proper technology to use for a particular pathway, one that was very important for the app at a fundamental level. I welcomed this discussion and I really like my peer - so it was not personal in any way, but it was robust. I enjoy those types of conversations, in the end, however, we could not make much head way as we both laid out our perspectives and thoughts about the draw backs and advantages of using one technology over teh other. 
+
+Our solution, getting a bit stuck was to consult a third party with more experience than both of us, in the end we came don in 
